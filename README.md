@@ -1,7 +1,5 @@
 # Daily SMS
 
-[Live](https://dailysms.netlify.com/)
-
 Schedule SMS messages using a Redis job queue, background cron job workers, and a REST API.
 
 ![dashboard](https://github.com/pxr13/daily-sms/blob/master/client/public/daily_sms.gif)
